@@ -1,4 +1,4 @@
-# Hi, I'm Layanyy! 👋
+# Hi, I'm Layan! 👋
 
 **Management Information Systems Student | Aspiring Data Analyst**
 
