@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Layanyy! 👋
 
-<!--
-**Layanyy17/Layanyy17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Management Information Systems Student | Aspiring Data Analyst**
 
-Here are some ideas to get you started:
+I'm interested in the intersection of **data, business, and technology** — turning information into useful insights and building systems that solve practical problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔎 Areas of Interest
+
+- **Data Analytics:** data cleaning, KPI reporting, and interactive dashboards
+- **Data Management:** data quality, governance, and structured decision-making
+- **Information Systems:** business processes, system design, and networking
+
+### 🧰 Tools & Skills
+
+`Microsoft Excel` · `GitHub` · `Cisco Packet Tracer` · `Data Cleaning` · `Dashboard Design` · `Network Simulation`
+
+**Currently exploring:** `SQL` · `Python for Data Analysis` · `Data Management Fundamentals`
+
+### 📌 Featured Project
+
+**[Business Network Design & Simulation](https://github.com/Layanyy17/Business-Network-Design-Simulation)**  
+Designed and simulated three interconnected LANs using Cisco Packet Tracer, with email, DHCP, DNS, and web services. The repository includes the simulation file, documentation, and screenshots.
+
+### 🌱 Currently Building
+
+An analytics portfolio focused on turning raw datasets into clear, decision-ready dashboards and practical business insights.
+
+---
+
+*Thanks for visiting! Explore my repositories to see what I'm building and learning.*
